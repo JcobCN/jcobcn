@@ -1,6 +1,7 @@
 ## Hi there 👋
+My Blog is htts://animeirl.top
 
-My Blog is [here.](htts://animeirl.top), feel free to contact me, I'm looking forward to a Golang or a Web3 job.
+I'm looking forward to a Golang or a Web3 job, feel free to contact me.
 
 <!--
 **JcobCN/jcobcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
