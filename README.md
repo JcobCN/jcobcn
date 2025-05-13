@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Blog is htts://animeirl.top
+My Blog is https://animeirl.top
 
 I'm looking forward to a Golang or a Web3 job, feel free to contact me.
 
